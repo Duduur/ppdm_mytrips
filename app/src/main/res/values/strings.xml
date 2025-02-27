@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTrips</string>
+    <string name="login_name">Login</string>
+    <string name="text">Please sign to continue</string>
+    <string name="gmail">exemplo@gmail.com</string>
+    <string name="symbols">*****************</string>
+    <string name="sing_in">Sing in</string>
+    <string name="gray_text">Don\'t have an account?</string>
+    <string name="short_login">Sing up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
